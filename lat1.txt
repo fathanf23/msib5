@@ -1,1 +1,13 @@
-apa kek tulisannya
+file ini adalah file yang dibuat didalam komputer
+yang kemudian akan diupload kedalam github
+menggunakan perintah :
+  Perintah Git :
+- git config --global user.email "email github"
+- git config --global user.name "username github"
+- git init
+- git config --list
+- git clone (salin code dari github)
+- cd folder/
+- git add . (untuk menambahkan data atau file)
+- git commit -m " komentar"
+- git push -u origin main (/master)
